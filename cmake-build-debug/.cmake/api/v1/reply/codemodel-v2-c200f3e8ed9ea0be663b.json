@@ -1,0 +1,151 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "image",
+					"jsonFile" : "directory-image-Debug-f16d8d659966db596a17.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "image",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "model",
+					"jsonFile" : "directory-model-Debug-af65bb3ccc0838daa510.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "model",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "parser",
+					"jsonFile" : "directory-parser-Debug-d8481011a4b315b11951.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "parser",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "bin",
+					"jsonFile" : "directory-bin-Debug-9ecb904d635c36109f32.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "bin",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "labwork_3_Valerochka1337",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "image::@eee4dc3d290b9b193ebb",
+					"jsonFile" : "target-image-Debug-db8fbd4eeccfc4bdc7f0.json",
+					"name" : "image",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "labwork_3_Valerochka1337::@90a2315b7a9c97cd24d2",
+					"jsonFile" : "target-labwork_3_Valerochka1337-Debug-1a59b72367a2eed818a4.json",
+					"name" : "labwork_3_Valerochka1337",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "model::@6e2dbee8102cccb9a4b2",
+					"jsonFile" : "target-model-Debug-f5233c880c6650c5c2f3.json",
+					"name" : "model",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "parser::@72798c8d109b1720528b",
+					"jsonFile" : "target-parser-Debug-04af8b7b0749336a0653.json",
+					"name" : "parser",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/valerijarcev/CLionProjects/labwork-3-Valerochka1337/cmake-build-debug",
+		"source" : "/Users/valerijarcev/CLionProjects/labwork-3-Valerochka1337"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

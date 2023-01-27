@@ -1,0 +1,14 @@
+/Users/valerijarcev/CLionProjects/labwork-3-Valerochka1337/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/valerijarcev/CLionProjects/labwork-3-Valerochka1337/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/valerijarcev/CLionProjects/labwork-3-Valerochka1337/cmake-build-debug/image/CMakeFiles/image.dir
+/Users/valerijarcev/CLionProjects/labwork-3-Valerochka1337/cmake-build-debug/image/CMakeFiles/edit_cache.dir
+/Users/valerijarcev/CLionProjects/labwork-3-Valerochka1337/cmake-build-debug/image/CMakeFiles/rebuild_cache.dir
+/Users/valerijarcev/CLionProjects/labwork-3-Valerochka1337/cmake-build-debug/model/CMakeFiles/model.dir
+/Users/valerijarcev/CLionProjects/labwork-3-Valerochka1337/cmake-build-debug/model/CMakeFiles/edit_cache.dir
+/Users/valerijarcev/CLionProjects/labwork-3-Valerochka1337/cmake-build-debug/model/CMakeFiles/rebuild_cache.dir
+/Users/valerijarcev/CLionProjects/labwork-3-Valerochka1337/cmake-build-debug/parser/CMakeFiles/parser.dir
+/Users/valerijarcev/CLionProjects/labwork-3-Valerochka1337/cmake-build-debug/parser/CMakeFiles/edit_cache.dir
+/Users/valerijarcev/CLionProjects/labwork-3-Valerochka1337/cmake-build-debug/parser/CMakeFiles/rebuild_cache.dir
+/Users/valerijarcev/CLionProjects/labwork-3-Valerochka1337/cmake-build-debug/bin/CMakeFiles/labwork_3_Valerochka1337.dir
+/Users/valerijarcev/CLionProjects/labwork-3-Valerochka1337/cmake-build-debug/bin/CMakeFiles/edit_cache.dir
+/Users/valerijarcev/CLionProjects/labwork-3-Valerochka1337/cmake-build-debug/bin/CMakeFiles/rebuild_cache.dir
